@@ -113,7 +113,7 @@ Hi! I'm Awais Asghar, the creator of this project. I built this because I wanted
 You can find me on:
 - GitHub: [@owaisasghar](https://github.com/owaisasghar)
 - Email: awaisasghar900@gmail.com
-- LinkedIn: [Awais Asghar](https://www.linkedin.com/in/awais-asghar)
+- LinkedIn: [Awais Asghar](https://www.linkedin.com/in/awais-asghar-9b9b27175/)
 
 ## 🙏 Special Thanks
 
